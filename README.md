@@ -1,2 +1,2 @@
 # 2018-agu-workshop
-Sample repository for the AGU workshop on open source software
+Sample repository for the AGU workshop on open source software XIA WEI
